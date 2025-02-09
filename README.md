@@ -12,7 +12,7 @@ Passionate about transforming raw data into actionable insights with expertise i
 ### **🛠️ Tech Stack**<br>
 Programming: Python, SQL, R<br>
 Data Engineering: ETL, Airflow, Data Warehousing<br>
-Databases: MySQL, PostgreSQL, MongoDB<br>
+Databases: MySQL, PostgreSQL<br>
 Big Data: Apache Spark, Hadoop<br>
 Cloud: AWS (S3, Lambda, Redshift), Google Cloud (BigQuery)<br>
 Machine Learning: TensorFlow, Scikit-learn, NLP<br>
